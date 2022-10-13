@@ -1,0 +1,3 @@
+[submodule "lib/number.h"]
+	path = lib/number.h
+	url = https://github.com/dmitriy10291029/number.h
